@@ -68,8 +68,7 @@ Full documentation is available in the docs/ directory:
   <hr style="height: 3px; background: linear-gradient(90deg, #EF8E8D, #5755A3); border: none; border-radius: 3px;">
 </div>
 
-If you find GeoTop helpful, please cite us.
-
+If you use PolyCLIP-T in your research, please cite:
 ```bibtex
 @article{vomodorfack2026polyclip,
   title={Topological Deep Learning Identifies Polygenic Variant Clusters Across Familial Multimorbid Disorders},
