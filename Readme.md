@@ -26,6 +26,7 @@ pip install -e .
 
 # Or install dependencies directly
 pip install -r requirements.txt
+```
 
 ## Quick Start
 
@@ -48,8 +49,7 @@ results = pipeline.analyze_family(
 
 # Get prioritized variants
 top_variants = results.get_prioritized_variants(threshold=0.8)
-
-
+```
 
 
 ## Documentation
@@ -59,10 +59,6 @@ Full documentation is available in the docs/ directory:
 - [Usage Tutorial](docs/usage.md)
 - [API Reference](docs/api.md)
 - [Theoretical Background](docs/theory.md)
-
-
-
-
 
 
 
@@ -85,10 +81,5 @@ If you find GeoTop helpful, please cite us.
 ```
 
 
-
-## Key fixes needed:
-- Add proper heading syntax (`##` for sections)
-- Make documentation items clickable links
-- Provide complete file paths
-- Consider adding a brief project description at the top
-- Include basic getting-started information
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
