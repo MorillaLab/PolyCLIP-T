@@ -52,7 +52,13 @@ top_variants = results.get_prioritized_variants(threshold=0.8)
 
 
 
+## Documentation
+Full documentation is available in the docs/ directory:
 
+- [Installation Guide](docs/installation.md)
+- [Usage Tutorial](docs/usage.md)
+- [API Reference](docs/api.md)
+- [Theoretical Background](docs/theory.md)
 
 
 
@@ -77,3 +83,12 @@ If you find GeoTop helpful, please cite us.
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
+
+
+## Key fixes needed:
+- Add proper heading syntax (`##` for sections)
+- Make documentation items clickable links
+- Provide complete file paths
+- Consider adding a brief project description at the top
+- Include basic getting-started information
