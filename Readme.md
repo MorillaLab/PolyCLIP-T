@@ -48,3 +48,32 @@ results = pipeline.analyze_family(
 
 # Get prioritized variants
 top_variants = results.get_prioritized_variants(threshold=0.8)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ============================================== -->
+<div align="left">
+  <h1 id="citation">🎈 Citation</h1>
+  <hr style="height: 3px; background: linear-gradient(90deg, #EF8E8D, #5755A3); border: none; border-radius: 3px;">
+</div>
+
+If you find GeoTop helpful, please cite us.
+
+```bibtex
+@article{vomodorfack2026polyclip,
+  title={Topological Deep Learning Identifies Polygenic Variant Clusters Across Familial Multimorbid Disorders},
+  author={Vomo Donfack, Kelly Larissa and Bousquet, Guilhem and Falgarrone, Géraldine and Ginot, Grégory and Morilla, Ian},
+  journal={bioRxiv},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
