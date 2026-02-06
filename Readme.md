@@ -26,3 +26,24 @@ pip install -e .
 
 # Or install dependencies directly
 pip install -r requirements.txt
+
+## Quick Start
+
+from pipeline.main_pipeline import PolyCLIPTPipeline
+from data.config.preprocessing_config import load_config
+
+# Load configuration
+config = load_config('configs/base_config.yaml')
+
+# Initialize pipeline
+pipeline = PolyCLIPTPipeline(config)
+
+# Process a family's WGS data
+results = pipeline.analyze_family(
+    family_id="FAM001",
+    vcf_paths=["data/FAM001/*.vcf"],
+    pedigree="data/FAM001/pedigree.csv"
+)
+
+# Get prioritized variants
+top_variants = results.get_prioritized_variants(threshold=0.8)
