@@ -82,3 +82,6 @@ If you use PolyCLIP-T in your research, please cite:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+This work was supported by the Laboratoire d'excellence Infibrex (ANR-11-LABX-0011), the Spanish National Research Council (CSIC), and the French National Research Agency (ANR) through the SynKoMIC project.
