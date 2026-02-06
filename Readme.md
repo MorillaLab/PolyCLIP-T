@@ -27,7 +27,7 @@ pip install -e .
 # Or install dependencies directly
 pip install -r requirements.txt
 
-## Quick Start
+<h3>## Quick Start</h3>
 
 from pipeline.main_pipeline import PolyCLIPTPipeline
 from data.config.preprocessing_config import load_config
