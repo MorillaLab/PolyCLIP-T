@@ -72,7 +72,7 @@ If you use PolyCLIP-T in your research, please cite:
 ```bibtex
 @article{vomodorfack2026polyclip,
   title={Topological Deep Learning Identifies Polygenic Variant Clusters Across Familial Multimorbid Disorders},
-  author={Vomo Donfack, Kelly Larissa and Bousquet, Guilhem and Falgarrone, Géraldine and Ginot, Grégory and Morilla, Ian},
+  author={Vomo Donfack, Kelly Larissa and Bousquet, Guilhem and Falgarone, Géraldine and Ginot, Grégory and Morilla, Ian},
   journal={bioRxiv},
   year={2026},
   publisher={Cold Spring Harbor Laboratory}
