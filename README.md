@@ -53,7 +53,7 @@ WGS (families)
 ┌─────────────────────────────────────────────────────────┐
 │  VARIANT REPRESENTATION                                 │
 │  • DNA sequence context  ±100–500 bp (DNABERT-2)        │
-│  • Functional annotations (CADD, SpliceAI, gnomAD …)   │
+│  • Functional annotations (CADD, SpliceAI, gnomAD …)    │
 │  • Familial context  (segregation, transmission, LOH)   │
 └────────────────────────┬────────────────────────────────┘
                          │
@@ -69,7 +69,7 @@ WGS (families)
                          ▼
 ┌─────────────────────────────────────────────────────────┐
 │  PERSISTENT HOMOLOGY  (Vietoris–Rips, GUDHI)            │
-│  Lifetime ℓ ≥ 0.25  →  stable topological component    │
+│  Lifetime ℓ ≥ 0.25  →  stable topological component     │
 │  + density enrichment  +  functional coherence filter   │
 └────────────────────────┬────────────────────────────────┘
                          │
