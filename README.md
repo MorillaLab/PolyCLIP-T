@@ -196,7 +196,8 @@ Fused embeddings z = [z_seq, z_bio] ∈ ℝ⁵¹² form a cosine-distance matrix
 | F2 (Discovery) | 2 (1/1) | Cancer, Autoimmune, Cardiovascular | 38× / 90× | 94 |
 | F3 (Discovery) | 2 (1/1) | Cancer, Autoimmune, Cardiovascular | 32× / 78× | 88 |
 | F4 (Discovery) | 3 (2/1) | Cancer, Autoimmune, Cardiovascular | 36× / 82× | 101 |
-| F5 (Test) | 3 (2/1) | Cancer, Autoimmune, Cardiovascular | 40× / 80× | 112 |
+| F5 (Discovery) | 2 (1/1) | Cancer, Autoimmune | 40× / 80× | 112 |
+| F6 (Test)      | 3 (2/1) | Cancer, Autoimmune, Cardiovascular | 40× / 80× | 112 |
 
 G/S = Germline / Somatic. Starting from an average of 1.0M variants per family post-QC.
 
