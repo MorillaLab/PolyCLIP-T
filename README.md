@@ -98,7 +98,7 @@ Applied to five families with multimorbid cancer, autoimmune and cardiovascular 
 | Recall | **0.67** | 0.48 | 0.56 | 0.58 |
 | F1 (full model) | **0.83** | 0.50 | 0.53 | 0.60 |
 | ARI at 1–5% labels | **≥ 0.70** | n/a | n/a | n/a |
-| Variants retained from 4.2M | **~104 per family** | ~3,500 | ~12,000 |
+| Variants retained from 4.2M | **~104 per family** | ~3,500 | ~12,000 | n/a |
 
 PolyCLIP-T retains **3× more variants in the 0.1–1% AF "twilight zone"** — the low-penetrance range systematically excluded by PM2 frequency filters — while producing a far smaller final candidate set.
 
