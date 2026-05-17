@@ -68,7 +68,7 @@ WGS (families)
                          │
                          ▼
 ┌─────────────────────────────────────────────────────────┐
-│  PERSISTENT HOMOLOGY  (Vietoris–Rips, GUDHI)            │
+│  PERSISTENT HOMOLOGY  (Vietoris–Rips, ...)              │
 │  Lifetime ℓ ≥ 0.25  →  stable topological component     │
 │  + density enrichment  +  functional coherence filter   │
 └────────────────────────┬────────────────────────────────┘
