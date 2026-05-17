@@ -94,9 +94,9 @@ Applied to five families with multimorbid cancer, autoimmune and cardiovascular 
 
 | Metric | PolyCLIP-T | ACMG/AMP filter | CADD > 20 |
 |---|---|---|---|
-| Precision (ClinVar recovery) | **0.68** | 0.51 | 0.44 |
-| Recall | **0.65** | 0.48 | 0.40 |
-| F1 (full model) | **0.83** | — | — |
+| Precision (ClinVar recovery) | **0.96** | 0.72 | 0.53 |
+| Recall | **0.67** | 0.48 | 0.56 |
+| F1 (full model) | **0.83** | 0.50 | 0.53 |
 | ARI at 1–5% labels | **≥ 0.70** | n/a | n/a |
 | Variants retained from 4.2M | **~104 per family** | ~3,500 | ~12,000 |
 
