@@ -92,11 +92,11 @@ WGS (families)
 
 Applied to five families with multimorbid cancer, autoimmune and cardiovascular disease:
 
-| Metric | PolyCLIP-T | ACMG/AMP filter | CADD > 20 |
+| Metric | PolyCLIP-T | ACMG/AMP filter | CADD > 20 | LIRICAL |
 |---|---|---|---|
-| Precision (ClinVar recovery) | **0.96** | 0.72 | 0.53 |
-| Recall | **0.67** | 0.48 | 0.56 |
-| F1 (full model) | **0.83** | 0.50 | 0.53 |
+| Precision (ClinVar recovery) | **0.96** | 0.72 | 0.53 | 0.62 |
+| Recall | **0.67** | 0.48 | 0.56 | 0.58 |
+| F1 (full model) | **0.83** | 0.50 | 0.53 | 0.60 |
 | ARI at 1–5% labels | **≥ 0.70** | n/a | n/a |
 | Variants retained from 4.2M | **~104 per family** | ~3,500 | ~12,000 |
 
