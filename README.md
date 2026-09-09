@@ -213,9 +213,9 @@ If you use PolyCLIP-T in your research, please cite:
              Across Familial Multimorbid Disorders},
   author  = {Vomo-Donfack, Kelly Larissa and Bousquet, Guilhem and
              Falgarone, G{\'e}raldine and Ginot, Gr{\'e}gory and Morilla, Ian},
-  journal = {bioRxiv},
+  journal = {medRxiv},
   year    = {2026},
-  doi     = {10.1101/2026.xx.xx.xxxxxx}
+  doi     = {10.64898/2026.06.03.26354242}
 }
 ```
 
@@ -234,7 +234,7 @@ We thank the patients and families who participated in this study, and the clini
 | | |
 |---|---|
 | **Kelly Larissa Vomo-Donfack** | vomodonfack@math.univ-paris13.fr |
-| **Ian Morilla** *(corresponding)* | ian.morilla@ihsm.uma-csic.es |
+| **Ian Morilla** ** | ian.morilla@ihsm.uma-csic.es |
 
 *LAGA – Université Sorbonne Paris Nord / IHSM – Universidad de Málaga–CSIC*
 
